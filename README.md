@@ -12,3 +12,18 @@
 - **Importance of analyzing sales data:** Analyzing sales data improves customer insights, pricing, performance, product focus, and strategic decisions. Helps in identifying sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:** Sales reports provide insights, track performance, guide decisions, identify trends, and support strategic business planning.
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]()_ & _[Months]()_ 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets]()_
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
